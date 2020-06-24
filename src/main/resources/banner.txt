@@ -1,2 +1,2 @@
-Application Version: ${assets.version}
+Application Version: ${puty.version}
 Spring Boot Version: ${spring-boot.version}
